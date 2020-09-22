@@ -6,5 +6,7 @@ public class Happly {
 		System.out.println("first");
 		System.out.println("secord");
 		System.out.println("third");
+		System.out.println("hot_fix2");
+		System.out.println("hot_fix2");
 	}
 }
